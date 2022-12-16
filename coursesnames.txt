@@ -1,2 +1,4 @@
 courses names
 ==================
+Linux
+Git
